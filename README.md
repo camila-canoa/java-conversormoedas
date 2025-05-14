@@ -16,7 +16,7 @@ O projeto tem como objetivo realizar a conversão de valores entre diferentes mo
 
 - **Java 17**
 - **Gson** para manipulação de JSON
-- **API de taxas de câmbio** (exemplo: https://api.exchangeratesapi.io)
+- **API de taxas de câmbio** (https://api.exchangeratesapi.io)
 
 ## Como Rodar o Projeto
 
